@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zain-Ateeq
 - 👀 I’m interested in Physics, Programing and Quantum Computing
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing Machine Learning
+- 💞️ I’m looking to collaborate on Physics Simulations
 - 📫 You can reach me at zainateeq448@gmail.com
 
 <!---
